@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1CC,100:C1A3FF&height=220&section=header&text=Hi,%20I'm%20Laiba&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Final-Year%20CS%20Student&descAlignY=58&descSize=18&fontName=Comfortaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1CC,100:C1A3FF&height=220&section=header&text=Hi,%20I'm%20Laiba&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Final-Year%20CS%20Student&descAlignY=58&descSize=18&fontName=Pacifico" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&size=20&duration=3000&pause=800&color=D291BC&center=true&vCenter=true&width=650&lines=Building+AI-powered+products;FastAPI+%2B+React+%2B+ML;Currently+interning+at+Tech+Establishment;Turning+coffee+into+code" />
 
