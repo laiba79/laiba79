@@ -28,8 +28,6 @@
 <br>
 <img src="https://img.icons8.com/fluency/20/brain.png"/> Growing deep into **ML/AI**: XGBoost, SHAP, embeddings, LLM APIs
 <br>
-<img src="https://img.icons8.com/fluency/20/robot.png"/> Also into automation and AI agents (n8n, Make.com)
-<br>
 <img src="https://img.icons8.com/fluency/20/handshake.png"/> Always happy to connect and build something cute and smart
 
 <br clear="right"/>
