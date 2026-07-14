@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1CC,100:C1A3FF&height=220&section=header&text=Hi,%20I'm%20Laiba&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Final-Year%20CS%20Student&descAlignY=58&descSize=18&fontName=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1CC,100:C1A3FF&height=220&section=header&text=Hi,%20I'm%20Laiba&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Final-Year%20CS%20Student&descAlignY=58&descSize=18&fontName=Comfortaa" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=D291BC&center=true&vCenter=true&width=650&lines=Building+AI-powered+products;FastAPI+%2B+React+%2B+ML;Currently+interning+at+Tech+Establishment;Turning+coffee+into+code" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&size=20&duration=3000&pause=800&color=D291BC&center=true&vCenter=true&width=650&lines=Building+AI-powered+products;FastAPI+%2B+React+%2B+ML;Currently+interning+at+Tech+Establishment;Turning+coffee+into+code" />
 
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="140">
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="140">
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://img.icons8.com/fluency/28/business-woman.png"/> <b>About Me</b>
+<img src="https://img.icons8.com/fluency/28/graduation-cap.png"/> <b>About Me</b>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/QSNGGGfPjJI9K/giphy.gif" width="230">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="230">
 
 <br>
 
@@ -112,16 +112,16 @@ AI career prep platform — ATS scoring, JD matching, mock interviews, dashboard
 <br>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=laiba79&show_icons=true&hide_border=true&title_color=D291BC&icon_color=FFB6C1&text_color=555555&bg_color=FFF5F8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba79&layout=compact&hide_border=true&title_color=D291BC&text_color=555555&bg_color=FFF5F8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=D291BC&icon_color=FFB6C1&text_color=555555&bg_color=FFF5F8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=D291BC&text_color=555555&bg_color=FFF5F8" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laiba79&hide_border=true&background=FFF5F8&ring=D291BC&fire=FFB6C1&currStreakLabel=D291BC" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=FFF5F8&ring=D291BC&fire=FFB6C1&currStreakLabel=D291BC" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laiba79&bg_color=FFF5F8&color=D291BC&line=FFB6C1&point=C1A3FF&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=FFF5F8&color=D291BC&line=FFB6C1&point=C1A3FF&hide_border=true" width="90%"/>
 </div>
 
 ---
@@ -132,16 +132,16 @@ AI career prep platform — ATS scoring, JD matching, mock interviews, dashboard
 
 <br><br>
 
-<a href="https://linkedin.com/in/laiba-afzaal-38940928a" target="_blank">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:laibaafzaal04@gmail.coml" target="_blank">
+<a href="mailto:YOUR_EMAIL" target="_blank">
 <img src="https://img.shields.io/badge/Email-D291BC?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/artj92oXVrMMDsBEUM/giphy.gif" width="160">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="160">
 
 <br>
 
