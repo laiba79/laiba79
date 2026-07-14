@@ -99,6 +99,38 @@ AI career prep platform — ATS scoring, JD matching, mock interviews, dashboard
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+<img src="https://img.icons8.com/fluency/24/find-matching-job.png"/> **Smart Job Finder**
+<br><br>
+Intelligent job search platform that matches candidates to relevant openings
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://img.icons8.com/fluency/24/feedback.png"/> **Feedback Wall**
+<br><br>
+A platform for collecting and displaying user feedback in a clean, organized wall
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://img.icons8.com/fluency/24/money-bag.png"/> **Finance Tracker**
+<br><br>
+Personal finance management app for tracking income, expenses, and budgets
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<img src="https://img.icons8.com/fluency/24/blood-bag.png"/> **Blood Bank Tracker**
+<br><br>
+A system to track blood donors, availability, and blood bank inventory
+
+</td>
+</tr>
 </table>
 
 ---
