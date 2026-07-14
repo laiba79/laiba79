@@ -79,15 +79,15 @@ AI career prep platform — ATS scoring, JD matching, mock interviews, dashboard
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=D291BC&icon_color=FFB6C1&text_color=555555&bg_color=FFF5F8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=D291BC&text_color=555555&bg_color=FFF5F8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba79&layout=compact&hide_border=true&title_color=D291BC&text_color=555555&bg_color=FFF5F8" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=FFF5F8&ring=D291BC&fire=FFB6C1&currStreakLabel=D291BC" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laiba79&hide_border=true&background=FFF5F8&ring=D291BC&fire=FFB6C1&currStreakLabel=D291BC" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=FFF5F8&color=D291BC&line=FFB6C1&point=C1A3FF&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laiba79&bg_color=FFF5F8&color=D291BC&line=FFB6C1&point=C1A3FF&hide_border=true" width="90%"/>
 </div>
 
 ---
